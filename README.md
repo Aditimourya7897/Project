@@ -1,2 +1,2 @@
-#OCTNET
+#OCTANET
  Landing Page
